@@ -1,0 +1,10 @@
+1 500 -- limite task-uri
+1 1000 -- limit numar procesoare
+1.25 10 -- limite frecventa procesor
+6.3 - durata maxima de progra
+8 - numaru de task-uri
+3 - numaru de procesoare
+2 - frecventa relativa a task-urilor
+1.0 1.5 2.5 3.0 3.0 3.3 3.8 4.0 -- durata is secunde a task-urilor
+1.8 2.5 2.8 -- frecventa procesoarelor in ghz
+25 -25 10 -- coeficientele alea
